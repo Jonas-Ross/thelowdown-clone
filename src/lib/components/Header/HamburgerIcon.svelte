@@ -1,4 +1,4 @@
-<script lang="ts">
+<script>
 	let isHovered = false;
 </script>
 
@@ -33,7 +33,7 @@
     .animated-path {
         stroke-dashoffset: 290;
         stroke-dasharray: 25 270;
-        transition: stroke-dashoffset .8s ease-out, stroke-dasharray .8s ease-out;
+        transition: stroke-dashoffset 0.5s ease-out, stroke-dasharray 0.5s ease-out;
     }
 
     .animated-path.hovered {
