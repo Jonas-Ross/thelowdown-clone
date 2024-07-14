@@ -1,18 +1,10 @@
-# create-svelte
-
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
-
-## Creating a project
-
-If you're seeing this, you've probably already done this step. Congrats!
-
-```bash
-# create a new project in the current directory
-npm create svelte@latest
-
-# create a new project in my-app
-npm create svelte@latest my-app
-```
+### Introduction
+Hi there!
+I ran across the site [The Lowdown](https://www.the-lowdown.com/underground-tokyo/) and absolutely loved the design.
+I wanted to recreate it using SvelteKit.
+This is my first time using SvelteKit in a personal projectf, so I'm excited to see how it goes.
+All the images and text are from the original site, so all credits go to the original creators.
+I'm just using it for educational purposes.
 
 ## Developing
 
